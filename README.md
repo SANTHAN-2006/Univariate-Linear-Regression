@@ -42,8 +42,6 @@ plt.show
 ```
 ## Output
 ![image](https://github.com/SANTHAN-2006/Univariate-Linear-Regression/assets/80164014/2d3e273c-c7e6-4392-89a6-02508782a2d1)
-<br>
-<br>
 ![image](https://github.com/SANTHAN-2006/Univariate-Linear-Regression/assets/80164014/1089444d-4c56-4715-9518-94685626f2e8)
 
 ## Result
